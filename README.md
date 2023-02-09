@@ -40,6 +40,7 @@ yarn start
 ├── public
 ├── src
 │   ├── components
+│   ├── utils
 ├── App.tsx
 ├── index.tsx
 ├── .gitignore
